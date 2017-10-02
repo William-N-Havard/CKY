@@ -826,7 +826,7 @@ function build_table($score, $mots)
     </head>
     <body>
         <center>
-            <form method="post" action="CYK.php">
+            <form method="post" action="CKY.php">
                 <table width="100%" height="50%" border=1>
                     <tr>
                         <th colspan=4 align=center>Implémentation de l'algorithme CYK pour le parsage de PCFG<br>William N. Havard</th>
